@@ -1,0 +1,10 @@
+[
+{ "nom": "Deezer", "url": "https://www.deezer.com/fr/", "url_image": "https://i.postimg.cc/Sxm1dr7w/Deezer.png"},
+{ "nom": "Netflix", "url": "https://www.netflix.com/", "url_image": "https://i.postimg.cc/9QcgbpYH/Netflix.png"},
+{ "nom": "Apple", "url": "https://www.apple.com/fr/", "url_image": "https://i.postimg.cc/BnJ7pgcr/Apple.png"},
+{ "nom": "UHA", "url": "https://e-services.uha.fr/fr/index.html", "url_image": "https://i.postimg.cc/W1sY8nwj/UHA.png"},
+{ "nom": "CodePen", "url": "https://codepen.io/", "url_image": "https://i.postimg.cc/9Qcgbpts/Code-Pen-io.png"},
+{ "nom": "ImgBB", "url": "https://imgbb.com/", "url_image": "https://i.postimg.cc/Cxwr7Nsg/Ibb.png"},
+{ "nom": "Gmap", "url": "https://www.google.com/maps/", "url_image": "https://i.postimg.cc/XYn1L8kM/Gmap.png"},
+{ "nom": "Wiki", "url": "https://fr.wikipedia.org/wiki/Wiki", "url_image": "https://i.postimg.cc/y87pjPyK/Wiki.png"}
+]
